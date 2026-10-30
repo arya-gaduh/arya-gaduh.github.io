@@ -1,0 +1,129 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd"><HTML>
+<HTML>
+<HEAD>	
+  <TITLE>Arya Gaduh | Economics</TITLE>
+	<META NAME="AUTHOR" CONTENT="Arya Gaduh">
+	<META NAME="CHANGEDBY" CONTENT="Arya Gaduh">
+	<META NAME="CHANGED" CONTENT="20110925;20003700">
+	<!--favicon & live bookmark-->
+	<META NAME="CHANGEDBY" CONTENT="Arya Gaduh">
+        <link rel="shortcut icon" href="images/favicon.ico?v=2" />
+
+	<SCRIPT src="js/common.js"> </SCRIPT>
+	<SCRIPT src="js/research.js"> </SCRIPT>
+
+
+  <link href='http://fonts.googleapis.com/css?family=Cabin+Sketch:400,700' rel='stylesheet'   type='text/css' >      	
+  <link rel="stylesheet" type="text/css" href="mystyle.css" />
+  <link href='http://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' type='text/css'>
+
+  <!--[if lte IE 7]>
+	 <link rel="stylesheet" type="text/css" href="ielte7.css" />
+  <![endif]-->
+
+
+  <!--[if IE 9]>
+	 <link rel="stylesheet" type="text/css" href="ie9.css" />
+  <![endif]-->
+
+	<STYLE TYPE="text/css">
+	<!--
+		@page { margin: 0.79in }
+		A:link { so-language: zxx }
+	-->
+
+	</STYLE>
+
+
+</HEAD>
+<BODY LANG="en-US" DIR="LTR">
+<div class="wrapper">
+  <SCRIPT type="text/javascript" src="includes/header.js"> </SCRIPT>
+	<div class="content">
+    <div class="maincol">
+
+      <h1>papers</h1>
+	    <P id="ptitle">
+      <img id="morec" class="rtarrow" height=8px src="images/expand.png" style="display:inline" alt="show abstract" title="show abstract" onclick="return toggleBrief('c')">
+      <img id="lessc" class="dnarrow" height=6px src="images/shrink.png" style="display:none" alt="hide abstract" title="hide abstract" onclick="return toggleBrief('c')">
+      <A id="title_c"  HREF="http://www.aeaweb.org/aej-applied/accepted_single.php?id=1306&jrnl=app" onClick="javascript: _gaq.push(['_trackPageview', '/downloads/papers/edurct']);">Improving Education Quality through Community Participation:  Results from a Randomized Field Experiment in Indonesia</A></p>
+      <p id="pinfo">with <a href="http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.asp" target="new window">Menno Pradhan</a>,
+      <a href="http://crawford.anu.edu.au/crawford_people/content/staff/acde/dsuryadarma.php" target="new window">Daniel Suryadarma</a>,
+      Amanda Beatty,
+      <a href="http://maisy.wharton.upenn.edu/" target="new window">Maisy Wong</a>, Armida Alisjahbana, and
+      Rima Artha | <i>AEJ: Applied Economics (Forthcoming)</i></p>
+      <div class="abstract" style="display:none" id="brief_c">
+      Education ministries worldwide have promoted community engagement through school committees.
+      This paper presents results from a large field experiment testing alternative approaches to strengthen
+      school committees in public schools in Indonesia. Two novel treatments focus on institutional reforms.
+      First, some schools were randomly assigned to implement elections of school committee members.
+      Another treatment facilitated joint-planning meetings between the school committee
+      and the village council (linkage). Two more common treatments, grants and training,
+      provided resources to existing school committees. We find that institutional reforms,
+      in particular linkage and elections combined with linkage, are most cost-effective at improving
+      learning.
+        </div>
+
+
+      <P id="ptitle"><span class="ntarrow">&#9632; </span>“Macroeconomic overview: Accelerating growth, maintaining stability.”</P>
+      <p id="pinfo">| 2004 | Indonesian Quarterly 32(3)</P>
+      <P id="ptitle"><span class="ntarrow">&#9632; </span>“Social implications of the Indonesian economic crisis.”</P>
+      <p id="pinfo">with Ari Perdana | 2003 | Indonesian Quarterly 31(2)</P>
+      <P id="ptitle"><span class="ntarrow">&#9632; </span>“Economic adjustment and the forestry sector in Indonesia.”</P>
+      <p id="pinfo">with Kurnya Roesad | 2003 | Indonesian Quarterly 31(2)</P>
+      <P id="ptitle"><span class="ntarrow">&#9632; </span>“Indonesia’s labour market during the crisis: Empirical evidence from the Sakernas, 1997-1999.”</P>
+      <p id="pinfo">with Tubagus Feridhanusetyawan | 2000 | Indonesian Quarterly 28(3)</P>
+      <P id="ptitle"><span class="ntarrow">&#9632; </span>“Education in Indonesia before and during the crisis.” (in Indonesian)</P>
+      <p id="pinfo">| 2000 | Analisis CSIS 24(3)</p>
+
+
+      <h1>reports</h1>
+      <P id="ptitle"><span class="ntarrow_lk">&#9632; </span><a class="ptitle" href="http://documents.worldbank.org/curated/en/2010/06/15353391/village-capacity-maintaining-infrastructure-evidence-rural-indonesia" target="new window">Village Capacity in Maintaining Infrastructure: Evidence from Rural Indonesia.</a></P>
+      <p id="pinfo">| 2010 | Jakarta: World Bank</P>
+      <P id="ptitle"><span class="ntarrow">&#9632; </span>Indonesia Commerce Report.</P>
+      <p id="pinfo">| 2007 | New York: Economist Intelligence Unit</P>
+      <P id="ptitle"><span class="ntarrow_lk">&#9632; </span><a class="ptitle" href="http://documents.worldbank.org/curated/en/2006/03/7125918/gam-reintegration-needs-assessment-enhancing-peace-through-community-level-development-programming" target="new window">GAM Reintegration Needs Assessment.</a></P>
+      <p id="pinfo">with Patrick Barron,
+      <a href="http://www.csls.ox.ac.uk/students/samuel_clark.php" target="new window">Samuel Clark</a>, and Matthew Zurstrassen | 2006 | Jakarta: World Bank </P>
+      <P id="ptitle"><span class="ntarrow">&#9632; </span>The Environmental Impacts of the Electricity Sector Restructuring. (in Indonesian)</P>
+      <p id="pinfo">with Agus Sari, Rizka Elyza, and Eriell Salim | 2003 | Jakarta: Pelangi</P>
+
+      <h1>chapters</h1>
+      <P id="ptitle"><span class="ntarrow_lk">&#9632; </span>
+        “<a class="ptitle" href="http://siteresources.worldbank.org/INTINDONESIA/Resources/Publication/280016-1152870963030/2753486-1165385030085/3232453-1166597289458/VOPcasestudy9.pdf">Civil Service Reform in Boalemo District, Gorontalo Province.</a>”</P>
+      <p id="pinfo">in Stefan Nachuk and Susannah Leisher (eds.), <a href="http://documents.worldbank.org/curated/en/2006/01/7415553/making-services-work-poor-nine-case-studies-indonesia" target="new window"><i>Making Services Work for the Poor: Nine Case Studies from Indonesia</i></a> | 2006 | Jakarta: World Bank</P>
+      <P id="ptitle"><span class="ntarrow_lk">&#9632; </span>
+          “<a class="ptitle" href="http://siteresources.worldbank.org/INTINDONESIA/Resources/Publication/280016-1152870963030/2753486-1165385030085/3232453-1166597289458/VOPcasestudy6.pdf" target="new window">Healthcare Insurance Reform in Jembrana, Bali.</a>”</P>
+      <p id="pinfo">with Laila Kuznezov | In <a href="http://documents.worldbank.org/curated/en/2006/01/7415553/making-services-work-poor-nine-case-studies-indonesia" target="new window">Nachuk and Leisher (op. cit.)</a></P>
+      <P id="ptitle"><span class="ntarrow_lk">&#9632; </span>“<a class="ptitle" href="http://siteresources.worldbank.org/INTINDONESIA/Resources/Publication/280016-1152870963030/2753486-1165385030085/3232453-1166597289458/VOPcasestudy3.pdf" target="new window">Creating
+        Learning Communities for Children in the Polman District, West Sulawesi.</a>” </P>
+      <p id="pinfo">with Stefan Nachuk and Susannah Leisher | In <a href="http://documents.worldbank.org/curated/en/2006/01/7415553/making-services-work-poor-nine-case-studies-indonesia" target="new window">Nachuk and Leisher (op. cit.)</a></P>
+      <P id="ptitle"><span class="ntarrow">&#9632; </span>“Indonesia” </P>
+      <p id="pinfo">in <i>Southeast Asia Regional Outlook 2005-2006</i> | 2006 | Singapore: ISEAS</P>
+      <P id="ptitle"><span class="ntarrow">&#9632; </span>“Indonesia” </P>
+      <p id="pinfo"> in <i>Confronting Climate Change: Economic Priorities and Climate Protection in Developing Nations</i> | 2000 | Washington DC: National Environment Trust</p>
+
+      <br><br>
+    </div>
+    <div class="subcol">
+      <div class="stacksubcol1">
+        <h2>Other publications</h2>
+        <h3>Op-Eds</h3>
+        <p id="coltext">
+          Before graduate school, I used to write op-eds and book reviews for Indonesian newspapers.
+          An archive of some of my columns for <a href="http://www.thejakartapost.com" target="new window">
+          the Jakarta Post</a> can be found
+      <a href="https://www.google.com/search?source=ig&hl=en&rlz=1G1GGLQ_ENUS240&q=arya+gaduh+-banyu+site%3Awww.thejakartapost.com&oq=arya+gaduh+-banyu+site%3Awww.thejakartapost.com&aq=f&aqi=&aql=&gs_l=igoogle.3...1561.8697.0.8977.45.8.0.31.0.1.360.1115.4j3j0j1.8.0...0.0.kOXuc080WKQ#hl=en&safe=off&rlz=1G1GGLQ_ENUS240&sclient=psy-ab&q=arya+gaduh+-banyu+site:www.thejakartapost.com&oq=arya+gaduh+-banyu+site:www.thejakartapost.com&aq=f&aqi=&aql=&gs_l=serp.12...0.0.0.38914.0.0.0.0.0.0.0.0..0.0...0.0.gQD9kxXpX74&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=2db105060e3663e9&biw=1241&bih=619"
+      target="new window" onClick="javascript: _gaq.push(['_trackPageview', '/googlejp']);">here</a> (courtesy of Google).
+        </p>
+      </div>
+    </div>
+
+    <div class="clear">
+    </div>
+  </div>
+  <SCRIPT type="text/javascript" src="includes/footer.js"> </SCRIPT>	
+</div>
+</BODY>
+</HTML> 

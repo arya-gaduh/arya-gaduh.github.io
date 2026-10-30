@@ -1,0 +1,204 @@
+html {overflow-y: scroll;}                
+
+
+@font-face {
+    font-family: 'allerregular';
+    src: url('types/Aller/aller_rg-webfont.eot');
+    src: url('types/Aller/aller_rg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('types/Aller/aller_rg-webfont.woff') format('woff'),
+         url('types/Aller/aller_rg-webfont.ttf') format('truetype'),
+         url('types/Aller/aller_rg-webfont.svg#allerregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'allerbold';
+    src: url('types/Aller/aller_bd-webfont.eot');
+    src: url('types/Aller/aller_bd-webfont.eot?#iefix') format('embedded-opentype'),
+         url('types/Aller/aller_bd-webfont.woff') format('woff'),
+         url('types/Aller/aller_bd-webfont.ttf') format('truetype'),
+         url('types/Aller/aller_bd-webfont.svg#allerbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'CabinSketch';
+    src: url('types/cabinsketch/CabinSketch-Regular.eot');
+    src: url('types/cabinsketch/CabinSketch-Regular.eot?#iefix') format('embedded-opentype'),
+         url('types/cabinsketch/CabinSketch-Regular.woff') format('woff'),
+         url('types/cabinsketch/CabinSketch-Regular.ttf') format('truetype'),
+         url('types/cabinsketch/CabinSketch-Regular.svg#EconomicaRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'CabinSketchBold';
+    src: url('types/cabinsketch/cabinsketch-bold-webfont.eot');
+    src: url('types/cabinsketch/cabinsketch-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('types/cabinsketch/cabinsketch-bold-webfont.woff') format('woff'),
+         url('types/cabinsketch/cabinsketch-bold-webfont.ttf') format('truetype'),
+         url('types/cabinsketch/cabinsketch-bold-webfont.svg#cabinsketchbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'RockSalt';
+    src: url('types/RockSalt/rocksalt-webfont.eot');
+    src: url('types/RockSalt/rocksalt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('types/RockSalt/rocksalt-webfont.woff') format('woff'),
+         url('types/RockSalt/rocksalt-webfont.ttf') format('truetype'),
+         url('types/RockSalt/rocksalt-webfont.svg#RockSaltRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 {
+  margin-top: 0.2in; 
+  margin-bottom: 0.08in; 
+  text-align:left; 
+  font: 20px CabinSketchBold;
+}
+
+h2 {
+  margin-top:0.1in; 
+  margin-bottom:0.05in;
+  border-bottom: solid 1.5px #808080;
+  padding-bottom:3px;
+  text-align:left;
+  font: 16px CabinSketchBold;  
+}
+
+h3 {
+  margin:5px 0 5px 0;
+  font-weight:900; 
+  font: 14px CabinSketchBold;
+  font-weight: bold;    
+}
+
+
+hr {
+  width:80%;
+  margin:auto;
+}      
+
+
+
+body { padding: 0 0 0 0; font: 16px Calibri, sans-serif; font-size:15px; color: #990000; margin-top:0;}
+.wrapper {
+  width:850px; 
+  margin:0 auto;}
+
+.footer {margin-top:0.05in; margin-right:10px; text-align:justify; font: 10px Verdana, serif;}
+.abstract {color: #000023; margin-bottom: 0.15in; margin-left:0.3in; margin-right:0.25in; font-size: 14px;}    
+.brieftitle {font-size:14px; margin-top:-0.05in;margin-bottom:0.08in;margin-left:0.2in;}
+
+#banner {
+  float:left 
+  padding: 0;
+  margin-top:-5px;
+  border-bottom: 1px solid;
+  height:145px;
+  }  
+
+  
+#banner_info{  
+  padding: 0 0px 5px 10px;
+  margin-bottom:10px;
+  position:relative;
+  }           
+
+#banner_pict{
+  padding: 0;
+  position:relative;
+  float:right;
+  padding:0 0 0 5px;
+  z-index:100;
+  }
+
+#banner a:link,  #banner a:hover, #banner a:visited {
+  text-decoration:none;
+  color:#990000;
+  border:none;
+}
+
+p.headname{font: 45px CabinSketch; margin-left:0.1in; margin-top:0.1in; margin-bottom:0;}
+p.headinfo{font: 12px RockSalt; margin-left:0.1in; margin-top:0in; margin-bottom:1; padding-bottom:0.1in}
+
+#banner_fir
+{
+  width: 400px;
+  height: 86px;
+  position:relative;
+}
+ 
+#banner_fir span
+{
+  background: url(banner_fir.gif) no-repeat;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+
+img.uark {
+  height:140px;
+  padding-right:5px;
+  border:none; 
+}                                                                             
+
+#tablogo {
+  float:left; 
+  width=10px;
+  margin:0;
+  margin-left:5px;
+  position:relative;
+  z-index:100;
+}
+  
+img.minilogo {
+  height:18px;
+  border:none;
+}
+
+
+.tab {
+  position:relative;
+  width:455px;
+  font: 12px allerregular;
+}
+
+.tabrow {
+    text-align: center;
+    list-style: none;
+    margin: 0 0 0px;
+    padding: 0;
+    line-height: 18px;
+    height: 22px;
+    overflow: hidden;
+    position: relative;
+}          
+                   
+.tabrow li {
+    color:#ffcc00; 
+    display: inline-block;
+    position: relative;
+    z-index: 0;
+    line-height:20px;
+    box-shadow: 0 0px 3px rgba(0, 0, 0, 0.4), 0 1px 0 #FFF;
+    margin: 0x 2px 0 0;
+    padding: 0 15px;
+    zoom:1; 
+    *display: inline; 
+    *_height: 18px;
+}
+

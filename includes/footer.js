@@ -1,0 +1,4 @@
+// JavaScript Document
+const dateMod = new Date(document.lastModified);
+document.write("<div class=\"footer\">&copy 2011-" +dateMod.getFullYear() +" by Arya Gaduh | <a href=\"mailto:&#97;&#103;&#97;&#100;&#117;&#104;&#64;&#119;&#97;&#108;&#116;&#111;&#110;&#46;&#117;&#97;&#114;&#107;&#46;&#101;&#100;&#117;\" target=\"new window\">Contact webmaster</a> | Last modified: " +(1+dateMod.getMonth())+ "/" +dateMod.getFullYear()+ " | This site is best viewed using CSS3-compatible browsers.</div>");
+document.write("<div class=\"footer\">These materials are not endorsed, approved, sponsored, or provided by or on behalf of the University of Arkansas, Fayetteville</div>");

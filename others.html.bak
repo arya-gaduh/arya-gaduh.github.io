@@ -1,0 +1,112 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd"><HTML>
+<HEAD>
+	<TITLE>Arya Gaduh | Economics</TITLE>
+	<META NAME="AUTHOR" CONTENT="Arya Gaduh">
+	<META NAME="CHANGEDBY" CONTENT="Arya Gaduh">
+	<META NAME="CHANGED" CONTENT="20110925;20003700">
+	<!--favicon & live bookmark-->
+	<META NAME="CHANGEDBY" CONTENT="Arya Gaduh">
+        <link rel="shortcut icon" href="images/favicon.ico?v=2" />
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+	<SCRIPT src="js/common.js"> </SCRIPT>
+	
+  <link href='http://fonts.googleapis.com/css?family=Cabin+Sketch:400,700' rel='stylesheet'   type='text/css' >      	
+  <link rel="stylesheet" type="text/css" href="mystyle.css" />
+  <link href='http://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' type='text/css'>
+
+  <!--[if lte IE 7]>
+	 <link rel="stylesheet" type="text/css" href="ielte7.css" />
+  <![endif]-->
+
+  <!--[if IE 9]>
+	 <link rel="stylesheet" type="text/css" href="ie9.css" />
+  <![endif]-->
+
+	<STYLE TYPE="text/css">
+	<!--
+		@page { margin: 0.79in }
+		A:link { so-language: zxx }
+	-->
+
+	</STYLE>
+
+
+</HEAD>
+<BODY LANG="en-US" DIR="LTR">
+<div class="wrapper">
+  <SCRIPT type="text/javascript" src="includes/header.js"> </SCRIPT>
+
+  <div class="content">
+    <div class="maincol" style="float:left; width:47%;">
+        <h1>development resources</h1>
+        <div id="maintext" style="font-size:14px;">
+                <h2>data</h2>
+                <P>
+                <A HREF="http://www.developmentdata.org/" target="new window"><b>developmentdata.org</b></A>
+                <br>Links to various development datasets.
+                </P>
+                <P>
+                <A HREF="http://www.thearda.com" target="new window"><b>Association of Religion Data Archives</b></A>
+                <br>Free access on quality data on religion.
+                </P>
+                <P>
+                <A HREF="https://international.ipums.org/international-action/faq" target="new window"><b>IPUMS International</b></A>
+                <br>Integrated international microdata based on national censuses.
+                </P>
+                <P>
+                <A HREF="http://www.rand.org/labor/FLS/IFLS.html" target="new window"><b>Indonesia Family Life Survey</b></A>
+                <br>Longitudinal dataset of Indonesian households.
+                </P>
+                <P>
+                <A HREF="http://www.bps.go.id" target="new window"><b>BPS-Statistics</b></A>
+                <br>Indonesia's statistical agency. <a href="http://www.rand.org/labor/bps.html" target="new window">This link</a> details
+                datasets available to purchase from the agency.
+                </P>
+                <h2 style="text-align:right; padding-top:15px;">research portals</h2>
+                <P>
+                <A HREF="http://sticerd.lse.ac.uk/FIELDWORK/" target="new window"><b>Fieldwork in Development Economics</b></A>
+                <br>Resources for researchers who want to do fieldwork.
+                </P>
+        </div>
+    </div>
+  <div class="maincol" style="float:right; width:47%;">
+      <h1>experimental resources</h1>
+        <div id="maintext" style="font-size:14px;">
+                <h2>laboratories</h2>
+                <P>
+                <A HREF="http://bbrl.uark.edu/" target="new window"><b>Behavioral Business Research Lab</b></A>
+                <br>Walton College's experimental lab. Click <a href="http://bbrl.uark.edu/orientation.asp" target="new window">here</a> to be a participant,
+                or <a href="http://bbrl.uark.edu/about.asp" target="new window">here</a> to use the lab.
+                </P>
+                <P>
+                <A HREF="http://dornsife.usc.edu/label" target="new window"><b>Los Angeles Behavioral Economics Lab (LABEL)</b></A>
+                <br>USC Economics's experimental lab.
+                </P>
+
+                <h2 style="text-align:right; padding-top:15px;">softwares</h2>
+                <P>
+                <A HREF="http://www.iew.uzh.ch/ztree/index.php" target="new window"><b>z-Tree</b></A>
+                <br>A relatively simple to implement (and free) software.
+                </P>
+                <P>
+                <A HREF="http://multistage.ssel.caltech.edu/" target="new window"><b>Multistage</b></A>
+                <br>Java programming skill is necessary, but it has the advantage of being very flexible (and it's free too).
+                </P>
+                <h2>teaching</h2>
+                <P>
+                <A HREF="http://www.moblab.com/" target="new window"><b>Moblab</b></A>
+                <br>
+                </P>
+                
+        </div>
+    </div>
+
+    <div class="clear">
+    </div>
+  </div>
+  <SCRIPT type="text/javascript" src="includes/footer.js"> </SCRIPT>
+</div>
+</BODY>
+</HTML> 

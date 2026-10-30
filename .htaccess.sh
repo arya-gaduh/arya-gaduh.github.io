@@ -1,0 +1,1 @@
+Redirect 301 / https://gaduh.hosted.uark.edu

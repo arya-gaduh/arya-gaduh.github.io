@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd"><HTML>
+<HEAD>
+	<TITLE>Arya Gaduh | Economics</TITLE>
+	<META NAME="AUTHOR" CONTENT="Arya Gaduh">
+	<META NAME="CHANGEDBY" CONTENT="Arya Gaduh">
+	<META NAME="CHANGED" CONTENT="20110925;20003700">
+	<!--favicon & live bookmark-->
+	<META NAME="CHANGEDBY" CONTENT="Arya Gaduh">
+        <link rel="shortcut icon" href="images/favicon.ico?v=2" />
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+	<SCRIPT src="js/common.js"> </SCRIPT>
+	<SCRIPT src="js/research.js"> </SCRIPT>
+
+  <link href='http://fonts.googleapis.com/css?family=Cabin+Sketch:400,700' rel='stylesheet'   type='text/css' >      
+  <link rel="stylesheet" type="text/css" href="mystyle.css" />
+
+  <!--[if lte IE 7]>
+	 <link rel="stylesheet" type="text/css" href="ielte7.css" />
+  <![endif]-->
+
+  <!--[if IE 9]>
+	 <link rel="stylesheet" type="text/css" href="ie9.css" />
+  <![endif]-->
+
+	<STYLE TYPE="text/css">
+	<!--
+		@page { margin: 0.79in }
+		A:link { so-language: zxx }
+	-->
+
+	</STYLE>
+
+
+</HEAD>
+<BODY LANG="en-US" DIR="LTR">
+<div class="wrapper">
+    <SCRIPT type="text/javascript" src="includes/header.js"> </SCRIPT>
+    <div class="content">
+    <div class="fullcol" style="width:77%">
+
+      <h1>Fall 2013</h1>
+      <P id="ptitle">
+      <img id="moreca" class="rtarrow" height=8px src="images/expand.png" style="display:none" alt="show description" title="show description" onclick="return toggleBrief('ca')">
+      <img id="lessca" class="dnarrow" height=6px src="images/shrink.png" style="display:inline" alt="hide description" title="hide description" onclick="return toggleBrief('ca')">
+      <b>ECON 5613</b> - Econometrics I [<A id="title_ca"  HREF="courses/econ5613/econ5613_syl.pdf" onClick="javascript: _gaq.push(['_trackPageview', '/downloads/papers/relcoop']);">Syllabus</A>]</p>
+      <div class="abstract" style="display:block" id="brief_ca">
+        This course offers a rigorous, but intuitive, graduate-level introduction to econometrics that provides a foundation for users of econometrics to begin engaging in applied research and to take more advanced coursework.
+        <br>
+        <br><b>Textbooks:</b>
+        <br>&nbsp;&nbsp;&nbsp;<a href="http://people.stern.nyu.edu/wgreene/Text/econometricanalysis.htm" target="new window">Greene (2012). <i>Econometric Analysis, 7E</i></a> (main)
+        <br>&nbsp;&nbsp;&nbsp;<a href="http://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data" target="new window">Wooldridge (2010). <i>Econometric Analysis of Cross Section and Panel Data, 2E</i></a> (supplementary)
+      </div>
+    </div>
+ <div class="clear">
+    </div>
+  </div>
+
+  <SCRIPT type="text/javascript" src="includes/footer.js"> </SCRIPT>
+</div>
+
+</BODY>
+</HTML> 

@@ -1,0 +1,1 @@
+Redirect permanent / http://www.usc.edu/
