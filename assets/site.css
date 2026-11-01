@@ -8,8 +8,6 @@
 
 [hidden]{display:none!important}.research-search{display:block;font-size:13px;color:var(--soft);margin-bottom:18px}.research-search input{font:inherit;margin-left:12px;border:0;border-bottom:1px solid var(--rule);padding:8px;background:transparent;max-width:100%;width:260px}
 
-.site-header .name{margin-left:0}
-
 .profile-actions{display:flex;align-items:center;gap:8px;margin:2px 0 24px;flex-wrap:wrap}.profile-actions .cv{display:inline-flex;align-items:center;gap:10px;padding:9px 12px;border:1px solid var(--link);border-radius:3px;font-size:15px;font-weight:500;min-height:44px}.cv small{font-size:12px;color:var(--soft)}.profile-icon{display:inline-flex;align-items:center;justify-content:center;width:36px;min-height:44px;border-radius:3px}.profile-icon svg{width:22px;height:22px}.profile-icon:hover{background:var(--rule)}.affiliation{border-top:1px solid var(--rule);padding-top:16px;margin-top:24px}.affiliation h2{font-size:15px;font-weight:500;margin:0 0 12px}.affiliation p{font-size:14px;margin-bottom:8px}.affiliation span{display:block;color:var(--soft);font-size:13px}
 
 .compact-paper.project-entry{display:block}.compact-paper.project-entry h3,.compact-paper.report-entry h3{margin:0 0 4px;font-weight:500}.project-entry .paper-meta,.report-entry .paper-meta{margin:0}.report-entry .paper-links{margin-top:6px}
@@ -17,3 +15,6 @@
 footer{gap:10px;border-top:1px solid var(--rule)}
 
 footer .last-updated{margin-left:auto}@media(max-width:600px){footer .last-updated{flex-basis:100%;margin-left:0}}
+
+/* align other mastheads to content. */
+.site-header .name{margin-left:0}
