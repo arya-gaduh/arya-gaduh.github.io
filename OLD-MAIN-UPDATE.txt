@@ -1,0 +1,17 @@
+OLD MAIN HOME PAGE UPDATE — November 2026
+
+For the live website, replace/add these files, preserving their paths:
+  index.html
+  assets/home.css
+  assets/old-main.png (new)
+
+For your local source/build folder, also replace:
+  build.py
+  templates/about.html
+
+All other pages, paper data, analytics code, and existing documents are unchanged.
+The home CSS URL has a new version to refresh cached styles.
+Home page last-updated label is November 2026; other pages retain their dates.
+Rebuild with: python build.py
+
+Merge these files into the existing site. Do not delete existing PDFs or folders.
