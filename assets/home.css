@@ -100,9 +100,10 @@
 @media(max-width:620px){
 .page-home .home-students{max-width:none;min-height:0;padding-bottom:72px}
 .page-home .home-students p{max-width:100%}
-.page-home .old-main-signature{width:100%;right:0;bottom:4px}
-.page-home .home-students::before{right:11%}
+.page-home .old-main-signature{width:100%;right:-6%;bottom:4px}
+.page-home .home-students::before{right:5%}
 }
+/* Regular desktop: student text width and spacing above the CV button. */
 @media (min-width: 901px) {
   .page-home .home-information {
     row-gap: 10px;
