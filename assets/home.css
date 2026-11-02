@@ -104,7 +104,19 @@
 .page-home .home-students::before{right:11%}
 }
 @media (min-width: 901px) {
+  .page-home .home-information {
+    row-gap: 10px;
+  }
+
+  .page-home .home-students {
+    min-height: 116px;
+  }
+
   .page-home .home-students p {
     max-width: 70%;
+  }
+
+  .page-home .old-main-signature {
+    bottom: 4px;
   }
 }
